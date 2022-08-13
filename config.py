@@ -3,12 +3,12 @@ from os import environ
 
 load_dotenv("config.env")
 
-BOT_TOKEN = environ.get("BOT_TOKEN")
-API_ID = int(environ.get("API_ID"))
-API_HASH = environ.get("API_HASH")
+BOT_TOKEN = environ.get("5443528866:AAGPiQvclXbRV2VlEu5sQ8CpxxfeKoJ0hfM")
+API_ID = int(environ.get("18442508"))
+API_HASH = environ.get("d380fa01dfabf2902e4066fd07f65074")
 API_ID1 = int(environ.get("API_ID1"))
 API_HASH1 = environ.get("API_HASH1")
-SUDO_USERS_ID = environ.get("SUDO_USERS_ID")
+SUDO_USERS_ID = environ.get("5348955545")
 LOG_GROUP_ID = environ.get("LOG_GROUP_ID")
 BASE_DB = environ.get("BASE_DB")
 MONGO_URL = environ.get("MONGO_URL")
